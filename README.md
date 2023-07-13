@@ -28,15 +28,6 @@ Sentiment analysis has gained attention in stock-related news, but its applicati
 
 Our approach reduces the RMSE of stock price prediction by 7% compared to the baseline model. However, challenges include limited labeled data for Microsoft-related news articles and resource-intensive evaluation processes. Despite these challenges, this research demonstrates the potential of sentiment analysis in stock price prediction and motivates further exploration in this field.
 
-## Repository Structure
-
-- `data/`: Directory for storing collected data.
-- `models/`: Directory containing pre-trained models.
-- `notebooks/`: Jupyter notebooks documenting experiments.
-- `scripts/`: Scripts for data preprocessing and model training.
-- `results/`: Directory to store analysis results.
-- `README.md`: Detailed project overview and instructions.
-
 For detailed implementation and experimental results, refer to the notebooks and code in the repository.
 
 [GitLab Repository Link](https://git.uwaterloo.ca/ky5liu/cs679_project)
